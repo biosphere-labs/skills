@@ -22,6 +22,8 @@ Brief the scribe with:
   - what the user asked for, in their words where possible
   - what was done (commands, files created or changed, tools used)
   - the decision made and the reason given, including options rejected
+  - the cues: what the user looked at or noticed before deciding (these become the skill's checks)
+  - every correction the user makes to an agent, in their words ("no, not like that, because…"). These are rules the user would never think to write down, so treat them as the most valuable entries.
   - anything that went wrong and how it was fixed
   - whether the step looks **general** (it would happen on every instance) or **specific** (only true of this instance). Mark each one.
 - **What not to do:** no editing of project files, no suggestions to the user, no summarising away detail. Precise and boring is the goal.
